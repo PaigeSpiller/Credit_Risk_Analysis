@@ -8,6 +8,7 @@
 ## Results:
 
 #### There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models (15 pt)
+#### ![BAS.PNG](Resources/BAS.PNG)
 
 ## Summary:
 
