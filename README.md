@@ -11,10 +11,10 @@
 #### ----------------------------------------------------------------------------------------------
 #### Naive Random Oversampling
 #### ![randOS.PNG](Resources/randOS.PNG) 
-#### * high risk precision:
-#### * high risk recall:
-#### * low risk precision:
-#### * low risk recall:
+#### * high risk precision: 1%
+#### * high risk recall: 59%
+#### * low risk precision: 100%
+#### * low risk recall: 68%
 #### ----------------------------------------------------------------------------------------------
 #### SMOTE Oversampling
 #### ![SMOTE.PNG](Resources/SMOTE.PNG)  
@@ -39,10 +39,10 @@
 #### ----------------------------------------------------------------------------------------------
 #### Balanced Random Forest Classifier
 #### ![BRF.PNG](Resources/BRF.PNG)
-#### * high risk precision: 1%
-#### * high risk recall: 59%
+#### * high risk precision: 4%
+#### * high risk recall: 67%
 #### * low risk precision: 100%
-#### * low risk recall: 68%
+#### * low risk recall: 91%
 #### ----------------------------------------------------------------------------------------------
 #### Easy Ensemble AdaBoost Classifier
 #### ![EasyE.PNG](Resources/EasyE.PNG)
