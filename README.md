@@ -52,5 +52,5 @@
 #### * low risk recall: 94%
 
 ## Summary:
-#### The ability for a model to predict the high risk customers is the most important factor when assesing performancere of the models.  
+#### The ability for a model to predict the high risk customers is the most important factor when assesing performance of the models.  
 #### Based on these factors, the best perfoming model was the easy ensemble AdaBoost classifier.  This model is the recommended model to use for determining high risk and low risk customers. 
